@@ -1,0 +1,8 @@
+[package]
+name = "finn/shooter-test"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Loader = "sleitnick/loader@2.0.0"
